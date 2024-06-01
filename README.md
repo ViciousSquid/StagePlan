@@ -6,3 +6,5 @@ A tool for visualising multicore snake channels
 
 * Double-click to add a new channel
 * Right-click to edit channel (number, label, colour)
+
+Numers can be dragged around
