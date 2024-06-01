@@ -8,3 +8,5 @@ A tool for visualising multicore snake channels
 * Right-click to edit channel (number, label, colour)
 
 Numbers can be dragged around
+
+Ability to save and load layouts
