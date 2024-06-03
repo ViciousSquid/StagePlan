@@ -1,5 +1,5 @@
 # StagePlan
-A tool for visualising multicore snake channels
+A tool for visualising multicore snake channels in live performance environments
 
 ![image](https://github.com/ViciousSquid/StagePlan/assets/161540961/5ab1bd39-4fb6-4f69-a204-ad0f7d901a84)
 
