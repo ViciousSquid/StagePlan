@@ -10,3 +10,6 @@ A tool for visualising multicore snake channels in live performance environments
 Numbers can be dragged around
 
 Ability to save and load layouts
+
+
+Networking module is completely optional: Allows for syncing across multiple instances
