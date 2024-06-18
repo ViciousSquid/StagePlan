@@ -1,7 +1,8 @@
 # StagePlan
 A tool for visualising multicore snake channels in live performance environments
 
-![image](https://github.com/ViciousSquid/StagePlan/assets/161540961/5ab1bd39-4fb6-4f69-a204-ad0f7d901a84)
+![image](https://github.com/ViciousSquid/StagePlan/assets/161540961/1b631286-6daf-4014-a6f1-7e260ddeecfa)
+
 
 ### Usage
 * Double-click to add a new channel
@@ -12,4 +13,4 @@ Numbers can be dragged around
 Ability to save and load layouts
 
 
-Networking module is completely optional: Allows for syncing across multiple instances
+Networking module allows for syncing across multiple instances
